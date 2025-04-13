@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "title": "採珠登場！",
+    "text_block_list": [
+        {
+            "name": "採珠",
+            "text": "我的名字是採珠！我的存在是為了\n讓全世界的人們看見夢想，拯救他們脫離絕望！",
+            "color_text_info_list": [
+                "採珠"
+            ]
+        },
+        {
+            "name": "採珠",
+            "text": "Everyone，我會讓你們看見！！\n我在國內百戰百勝，以及──達成特雷森學園最初\n拿下「歐洲GⅠ勝利」的瞬間！",
+            "color_text_info_list": [
+                "特雷森學園",
+                "GⅠ"
+            ]
+        },
+        {
+            "name": "採珠",
+            "text": "首先是一哩短距離和三后冠，\n我必須從中choose一個作為目標！\n如果選擇走一哩短距離路線──",
+            "color_text_info_list": [
+                "三后冠"
+            ]
+        },
+        {
+            "name": "採珠",
+            "text": "之後阻擋在我面前的高牆，\n就會是大樹快車！\n但對手越強越能讓我的鬥志burning！",
+            "color_text_info_list": [
+                "大樹快車"
+            ]
+        }
+    ]
+}

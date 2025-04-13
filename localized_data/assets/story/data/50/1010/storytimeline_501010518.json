@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "title": "早睡快擊？",
+    "text_block_list": [
+        {
+            "name": "大樹快車",
+            "text": "Ouch！\n嗚嗚……我的手好像muscle pain耶。",
+            "choice_data_list": [
+                "妳肌肉痠痛嗎？"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "Yes，昨晚我在練習fast draw──"
+        },
+        {
+            "name": "大樹快車",
+            "text": "我spin模型槍的時候，\n不小心太激動了……"
+        },
+        {
+            "name": "大樹快車",
+            "text": "唉……\n有沒有辦法消除痠痛呢……好痛喔。"
+        },
+        {
+            "text": "大樹快車的狀況似乎不太好……"
+        }
+    ]
+}

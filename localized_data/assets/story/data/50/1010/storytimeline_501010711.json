@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "title": "下次不會輸了！",
+    "text_block_list": [
+        {
+            "name": "大樹快車",
+            "text": "訓練員，\n最近我們一直輸耶──",
+            "choice_data_list": [
+                "抱歉，是我能力不足……"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "What's？No、no！\n你nothing須要道歉！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "反倒現在開始才是重頭戲！\n我們要超過所有人，成為第一名！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "為此，訓練員跟我必須要\n兩人shoulder to shoulder才行！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "啊，well……\n記得日文是叫肩並肩……",
+            "choice_data_list": [
+                "是「並肩作戰」，讓我們慢慢努力吧",
+                "是「並肩作戰」，讓我們一起重新鍛鍊吧"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "Yes，of course！\n並肩作戰獲得victory！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "靠我和訓練員的組合，\n把happy散播給大家吧！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "Yes，of course！\nSpartan training，儘管來吧！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "為了把happy帶給大家，\n以及在之後成為第一名──"
+        },
+        {
+            "name": "大樹快車",
+            "text": "我和訓練員的組合一定要變得更強！！"
+        }
+    ]
+}

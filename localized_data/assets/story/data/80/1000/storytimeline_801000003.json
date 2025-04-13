@@ -1,0 +1,10 @@
+{
+    "no_wrap": true,
+    "title": "共通靈感事件",
+    "text_block_list": [
+        {
+            "name": "獨白",
+            "text": "訓練結束後，\n<chrname>正在和<support>說話。"
+        }
+    ]
+}

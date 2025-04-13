@@ -1,0 +1,17 @@
+{
+    "no_wrap": true,
+    "title": "關於繼承",
+    "text_block_list": [
+        {
+            "name": "駿川手綱",
+            "text": "接下來要繼續進行培育的準備工作。"
+        },
+        {
+            "name": "駿川手綱",
+            "text": "我們先到三女神像前一趟吧。",
+            "color_text_info_list": [
+                "三女神像"
+            ]
+        }
+    ]
+}

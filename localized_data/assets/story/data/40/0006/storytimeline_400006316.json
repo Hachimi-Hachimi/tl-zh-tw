@@ -1,0 +1,14 @@
+{
+    "no_wrap": true,
+    "title": "膚況不太好……",
+    "text_block_list": [
+        {
+            "name": "獨白",
+            "text": "<chrname>在走廊的鏡子前\n一臉傷腦筋的樣子……"
+        },
+        {
+            "name": "獨白",
+            "text": "看來她的肌膚狀況似乎不太好……"
+        }
+    ]
+}

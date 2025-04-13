@@ -1,0 +1,14 @@
+{
+    "no_wrap": true,
+    "title": "聽聞評價而來的賽馬娘",
+    "text_block_list": [
+        {
+            "name": "獨白",
+            "text": "聽聞隊伍的評價，<support>\n前來表示希望加入隊伍。"
+        },
+        {
+            "name": "獨白",
+            "text": "<support>加入隊伍了！"
+        }
+    ]
+}

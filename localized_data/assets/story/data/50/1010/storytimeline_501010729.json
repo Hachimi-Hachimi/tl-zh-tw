@@ -1,0 +1,29 @@
+{
+    "no_wrap": true,
+    "title": "挑戰夾娃娃機失敗……",
+    "text_block_list": [
+        {
+            "name": "大樹快車",
+            "text": "Oh～no……！\nDrop掉了……",
+            "choice_data_list": [
+                "抱歉……",
+                "抱歉啊……"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "Don't worry！訓練員，\n請你別放在心上！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "俗話說「人有lost足」！\n以及「who能無過」對吧？"
+        },
+        {
+            "name": "大樹快車",
+            "text": "誰都會有狀況no good的時候。\n這也沒辦法……"
+        },
+        {
+            "text": "留下令人遺憾的結果……"
+        }
+    ]
+}

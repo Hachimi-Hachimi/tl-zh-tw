@@ -1,0 +1,29 @@
+{
+    "no_wrap": true,
+    "title": "挑戰夾娃娃機大成功！",
+    "text_block_list": [
+        {
+            "name": "大樹快車",
+            "text": "Wonderful！！So cool！！\n你get到好多喔！",
+            "choice_data_list": [
+                "輕而易舉啦",
+                "輕而易舉啦"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "Oh！你說「輕而易舉」，\n換句話說就是「三兩下輕鬆掃台」對吧！？"
+        },
+        {
+            "name": "大樹快車",
+            "text": "訓練員，看你「唰唰唰唰」地幫我\nget那些toy，真的so cool！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "今天會成為我special的回憶！！\nThank you！！我絕對不會忘記的！！"
+        },
+        {
+            "text": "──成果令人心滿意足！"
+        }
+    ]
+}

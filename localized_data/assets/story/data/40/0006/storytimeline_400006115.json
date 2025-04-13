@@ -1,0 +1,14 @@
+{
+    "no_wrap": true,
+    "title": "慰勞的鼓勵",
+    "text_block_list": [
+        {
+            "name": "獨白",
+            "text": "<support>\n來替我們加油了！"
+        },
+        {
+            "name": "獨白",
+            "text": "我們在碰面地點和<support>\n一起在樹蔭底下共度了一段時光。\n為了回應她的鼓勵，繼續努力吧！"
+        }
+    ]
+}

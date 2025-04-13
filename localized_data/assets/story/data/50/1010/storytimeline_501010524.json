@@ -1,0 +1,121 @@
+{
+    "no_wrap": true,
+    "title": "謎題特急件？",
+    "text_block_list": [
+        {
+            "text": "我在走廊上走著走著，\n聽見了一陣吵鬧的聲音……"
+        },
+        {
+            "name": "大樹快車",
+            "text": "Hey、hey！要不要來challenge\n我珍藏的謎題呢？"
+        },
+        {
+            "name": "賽馬娘A",
+            "text": "對、對不起。\n之後我得去訓練……"
+        },
+        {
+            "name": "大樹快車",
+            "text": "Howdy！要不要來試試big surprise\n刻不容緩的特別謎題呢？"
+        },
+        {
+            "name": "賽馬娘B",
+            "text": "抱歉喔，老師在找我──"
+        },
+        {
+            "name": "大樹快車",
+            "text": "唔唔唔……oh！"
+        },
+        {
+            "text": "我好像跟她對上眼了……"
+        },
+        {
+            "name": "大樹快車",
+            "text": "Nice timing！\n訓練員！！",
+            "choice_data_list": [
+                "怎麼了……？",
+                "怎麼了嗎……？"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "其實呀，剛剛friends告訴了我\n一個很有趣的謎題！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "哼哼，你解得開這個謎題嗎～？\n那麼，let's riddle！！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "同樣是bread，可是不能吃的bread是\nwhat is this？",
+            "choice_data_list": [
+                "該不會是frying pan？",
+                "應該不是bread吧？"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "Yes！沒錯！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "訓練員，你好厲害喔！\n我之前完全不曉得耶！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "嗯……但為什麼會是frying pan呢？"
+        },
+        {
+            "name": "大樹快車",
+            "text": "算了，無所謂啦！反正只要我問到這個，\n大家都會露出smile！",
+            "choice_data_list": [
+                "我想這樣就好"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "Yeah！就是說吧。好，我要再去\n問更多人！See you！"
+        },
+        {
+            "text": "（咕嚕嚕──）"
+        },
+        {
+            "name": "大樹快車",
+            "text": "Oh，講到bread害我都餓了。"
+        },
+        {
+            "name": "大樹快車",
+            "text": "後續等下次再聊囉，see you！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "哼哼，你上當了！\n正確答案是frying pan啦！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "請你放心吧。我一開始也搞錯了……\n啊哈哈。"
+        },
+        {
+            "name": "大樹快車",
+            "text": "不過，我不明白為什麼frying pan\n會是answer就是了。",
+            "choice_data_list": [
+                "應該不是bread，而是pan吧？"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "啊……yes！\n印象中……是「pan」沒錯！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "「Pan」……哎呀！！\n原來如此，所以才會是frying pan！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "我心裡舒暢多了！\n真不愧是訓練員！Very smart！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "我得趕快去告訴大家這件事！\n那麼，see you！"
+        }
+    ]
+}

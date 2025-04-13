@@ -1,0 +1,29 @@
+{
+    "no_wrap": true,
+    "title": "成績Crisis！",
+    "text_block_list": [
+        {
+            "name": "大樹快車",
+            "text": "嗚哇啊啊啊啊！\n訓練員────！！",
+            "choice_data_list": [
+                "怎麼了？",
+                "怎麼了？"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "我考試的score不好，\n挨老師罵了！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "下次再考不好，就要跟老師man to man\n進行extra lesson了！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "嗚嗚……這下子要好好用功了……"
+        },
+        {
+            "text": "這件事讓大樹快車有好一陣子\n都無精打采的。"
+        }
+    ]
+}

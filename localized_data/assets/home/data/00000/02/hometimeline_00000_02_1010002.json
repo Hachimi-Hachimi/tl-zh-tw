@@ -1,0 +1,29 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "大樹快車",
+            "text": "Hey hey，採珠！\nWhat's up？"
+        },
+        {
+            "name": "採珠",
+            "text": "哇……？嗯，呼……\n……Yes, dancing！！！！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "Oh！Very nice！\nLet's hangout tonight！"
+        },
+        {
+            "name": "採珠",
+            "text": "Hang……？哼哼……\nLet's gorgeous night！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "Oh yes, awesome！\n我很期待呢～！"
+        },
+        {
+            "name": "採珠",
+            "text": "呼……！\n大樹果然是……世界級水準啊！"
+        }
+    ]
+}

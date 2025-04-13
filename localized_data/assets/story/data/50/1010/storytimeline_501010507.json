@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "title": "粉絲信",
+    "text_block_list": [
+        {
+            "name": "大樹快車",
+            "text": "訓練員～～～～！\nAmazing～～～～！",
+            "choice_data_list": [
+                "發生什麼事了！？"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "我收到粉絲信了！\n上面說比賽跟演唱會讓她很happy！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "Very very fantastic！\n有粉絲支持，讓我非常開心！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "對了，我現在就去見她，\n給對方一個緊緊的hug吧～！",
+            "choice_data_list": [
+                "等一下、等一下！"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "Oh！\n訓練員你也要一起hug嗎～？"
+        },
+        {
+            "name": "獨白",
+            "text": "我拚命阻止了大樹快車離開訓練員室。"
+        }
+    ]
+}

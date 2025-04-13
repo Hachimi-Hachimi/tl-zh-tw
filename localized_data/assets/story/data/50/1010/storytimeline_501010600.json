@@ -1,0 +1,29 @@
+{
+    "no_wrap": true,
+    "title": "臨陣抖擻",
+    "text_block_list": [
+        {
+            "name": "獨白",
+            "text": "開賽前，我來察看大樹快車的狀況……"
+        },
+        {
+            "name": "大樹快車",
+            "text": "OK. On the 4th corner,\nI'll gear up……and──"
+        },
+        {
+            "name": "大樹快車",
+            "text": "──Oh，訓練員！\n真是的，進房來要打聲招呼啦！",
+            "choice_data_list": [
+                "抱歉，因為我看妳好像很專心"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "呵呵，of course！\nCowgirl就是會在決鬥前集中精神的！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "看我在賽場上也來露一手\n德州學到的quick draw吧！！"
+        }
+    ]
+}

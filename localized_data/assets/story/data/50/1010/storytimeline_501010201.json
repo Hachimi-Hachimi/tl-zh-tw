@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "title": "迎向新山紀念",
+    "text_block_list": [
+        {
+            "name": "大樹快車",
+            "text": "呀呼！\n終於來到「新山紀念」的日子了！",
+            "choice_data_list": [
+                "有沒有信心？",
+                "有沒有信心？"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "Well～我聽說這是場主要競賽，\n有許多跑得很快的對手，所以很難victory。",
+            "color_text_info_list": [
+                "主要競賽"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "可是！我不會輸的！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "我會朝著「年度代表賽馬娘」──\nDash！Dash！！",
+            "choice_data_list": [
+                "妳一定能獲勝！"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "Yes！我也這麼覺得♪"
+        },
+        {
+            "name": "大樹快車",
+            "text": "請你好好看著！我會用powerful的跑法\n把大家統統甩開的！"
+        }
+    ]
+}

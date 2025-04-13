@@ -1,0 +1,33 @@
+{
+    "no_wrap": true,
+    "title": "達成！優秀的表現！",
+    "text_block_list": [
+        {
+            "name": "獨白",
+            "text": "<chrname>達成了\n<achievement_name>。"
+        },
+        {
+            "name": "獨白",
+            "text": "<achievement_info>"
+        },
+        {
+            "text": "某一天，\n秋川理事長向我搭話。"
+        },
+        {
+            "name": "秋川理事長",
+            "text": "漂亮！！"
+        },
+        {
+            "name": "秋川理事長",
+            "text": "<chrname>的優異表現\n可說是印象深刻！有望！"
+        },
+        {
+            "name": "秋川理事長",
+            "text": "做得好！\n你們展現的優秀表現，\n值得作為其他賽馬娘的目標！"
+        },
+        {
+            "name": "獨白",
+            "text": "秋川理事長親自稱讚了我們……！\n看來我們締造了好成績！"
+        }
+    ]
+}

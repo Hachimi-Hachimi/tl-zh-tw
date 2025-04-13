@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "title": "恢復精神",
+    "text_block_list": [
+        {
+            "name": "川上公主",
+            "text": "訓練員，\n早安！",
+            "choice_data_list": [
+                "早安，妳有好好休息嗎？"
+            ]
+        },
+        {
+            "name": "川上公主",
+            "text": "嗯，我有好好休息！我還在這段休息時間\n重看了以前的Prinfight系列！"
+        },
+        {
+            "name": "川上公主",
+            "text": "雖然以宇宙為故事舞台的Prinfight☆'s【巨星】\n很好看，可是不覺得\nPrinfight vs 黑暗Prinfight也不遜色嗎～？"
+        },
+        {
+            "text": "看來她好好休息之後，\n也恢復體力了。"
+        }
+    ]
+}

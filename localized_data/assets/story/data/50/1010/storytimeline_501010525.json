@@ -1,0 +1,78 @@
+{
+    "no_wrap": true,
+    "title": "Burger in Japan！",
+    "text_block_list": [
+        {
+            "name": "大樹快車",
+            "text": "Big carrot burger……in Japan！！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "Howdy，訓練員！\n要不要一起去吃漢堡呢？"
+        },
+        {
+            "name": "大樹快車",
+            "text": "我在美國時常吃的漢堡，\n現在似乎有在賣耶！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "那非常yummy喔。\n從big的patty中流出來的肉汁……"
+        },
+        {
+            "name": "大樹快車",
+            "text": "還有又甜又厚的butter saute carrot！\n我們family經常一起去買……"
+        },
+        {
+            "name": "大樹快車",
+            "text": "──所以，我想讓這邊的family，\n也就是訓練員你嚐嚐看！",
+            "choice_data_list": [
+                "之後要訓練耶",
+                "之後要訓練耶"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "就是因為這樣才要吃！\n吃完我就有動力了！Please！",
+            "choice_data_list": [
+                "我們一起去吧",
+                "我們外帶吧"
+            ]
+        },
+        {
+            "name": "大樹快車",
+            "text": "Thank you！那麼，let's go！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "嗯──！！\n這個味道真叫人受不了！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "真的很thank you，訓練員！\n我吃得好飽……"
+        },
+        {
+            "name": "大樹快車",
+            "text": "之後的訓練，\n我們一起加油吧！！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "Oh……想不到居然是\nregular holiday……"
+        },
+        {
+            "name": "大樹快車",
+            "text": "唉……\n應該先查清楚的……好沮喪。"
+        },
+        {
+            "name": "大樹快車",
+            "text": "Take out！？\nOh！還有這招！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "這樣就不會占用太多訓練時間了，\nall right對吧！"
+        },
+        {
+            "name": "大樹快車",
+            "text": "訓練員果然很smart，\n我都要respect了！"
+        }
+    ]
+}

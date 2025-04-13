@@ -1,0 +1,22 @@
+{
+    "no_wrap": true,
+    "title": "出道戰結束後．出乎意料的rivals",
+    "text_block_list": [
+        {
+            "name": "採珠",
+            "text": "呵～呵呵呵！這就是我的實力！\n心臟是不是都jumping個不停了啊！\n面對大樹我也要順著這股氣勢拿下victory！"
+        },
+        {
+            "name": "採珠",
+            "text": "──什麼，大樹暫時無法出道！？\n這樣我burning的soul該怎麼辦才好！"
+        },
+        {
+            "name": "採珠",
+            "text": "既然如此，myself就在新手級大鬧一場！\n首先在「每日盃新手級S」上look at me！",
+            "color_text_info_list": [
+                "新手級",
+                "每日盃新手級S"
+            ]
+        }
+    ]
+}
