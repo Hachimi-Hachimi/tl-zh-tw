@@ -42,13 +42,13 @@ This is the Traditional Chinese translation repository for Hachimi.
   <img src="https://contrib.rocks/image?repo=Hachimi-Hachimi/tl-zh-tw" />
 </a>
 
-- 本項目繼承自 [Trainers' Legend G 繁體中文版](https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw)，因此在該項目中貢獻的人員，也是本項目的貢獻者。
+- 本項目繼承自 [`Trainers' Legend G 繁體中文版`](https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw)，因此在該項目中貢獻的人員，也是本項目的貢獻者。
 <a href="https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=yotv2000tw/Trainers-Legend-G-TRANS-zh-tw" />
 </a>
 
 ### 簡體中文翻譯檔案項目
-- 部分翻譯來自於 [`简体中文项目译文仓库`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS)，如果本項目沒有註明譯者的部分，可以參閱其相關來源標註。
+- 部分翻譯來自於 [`TLG简体中文项目译文仓库`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS)，如果本項目沒有註明譯者的部分，可以參閱其相關來源標註。
 
 <a href="https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MinamiChiwa/Trainers-Legend-G-TRANS" />
@@ -56,7 +56,7 @@ This is the Traditional Chinese translation repository for Hachimi.
 
 ## 遊戲素材之使用
 
-- 本項目內之遊戲素材，其版權屬於 [Komoe Technology Limited（繁體中文版）](https://www.komoejoy-sea.com/) 及 [株式会社Cygames（日文版）](https://www.cygames.co.jp/) 。
+- 本項目內之遊戲素材版權屬於 [Komoe Technology Limited（繁體中文版）](https://www.komoejoy-sea.com/) 及 [株式会社Cygames（日文版）](https://www.cygames.co.jp/) 。
 
 ## 字型使用
 - 本項目使用的字型是基於 SIL Open Font License 1.1 改造 字嗨 製作之「[源樣黑體](https://github.com/ButTaiwan/genyog-font/)」字型，「[源樣黑體](https://github.com/ButTaiwan/genyog-font/)」是基於 SIL Open Font License 1.1 改造 Adobe 所開發、發表的「[思源黑體](https://github.com/adobe-fonts/source-han-sans/)」字型。
