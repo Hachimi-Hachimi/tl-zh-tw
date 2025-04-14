@@ -41,10 +41,12 @@ This is the Traditional Chinese translation repository for Hachimi.
 <a href="https://github.com/Hachimi-Hachimi/tl-zh-tw/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Hachimi-Hachimi/tl-zh-tw" />
 </a>
+
 - 本項目繼承自 [Trainers' Legend G 繁體中文版](https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw)，因此在該項目中貢獻的人員，也是本項目的貢獻者。
 <a href="https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=yotv2000tw/Trainers-Legend-G-TRANS-zh-tw" />
 </a>
+
 ### 簡體中文翻譯檔案項目
 - 部分翻譯來自於 [`简体中文项目译文仓库`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS)，如果本項目沒有註明譯者的部分，可以參閱其相關來源標註。
 
