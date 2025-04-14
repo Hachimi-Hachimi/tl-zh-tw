@@ -42,7 +42,7 @@
             "13": {
                 "text_param_list": {
                     "0": {
-                        "text": "回合結束後\n將舉辦DreamFest"
+                        "text": "將在回合結束後\n舉辦DreamFest"
                     }
                 }
             },
@@ -62,7 +62,7 @@
                     "0": {
                         "text": "回合",
                         "position_offset": {
-                            "x": -1.975,
+                            "x": 0,
                             "y": 0,
                             "z": 0
                         }
