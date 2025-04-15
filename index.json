@@ -39,7 +39,7 @@
       "size": 112558
     },
     {
-      "path": "assets/atlas/campaign/Campaign.diff.png",
+      "path": "assets/atlas/campaign/campaign.diff.png",
       "hash": "fd7f3620e16664bdd94fdb8452d6585e39782a76491856c4a90cd5748653b9d4",
       "size": 433091
     },
@@ -49,7 +49,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/common/Common.diff.png",
+      "path": "assets/atlas/common/common.diff.png",
       "hash": "85c771ee04537ceac242053fcd6a20bef3b6426a3e2a6cb99dbce4f49bc70afc",
       "size": 2451522
     },
@@ -59,7 +59,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/directory/Directory.diff.png",
+      "path": "assets/atlas/directory/directory.diff.png",
       "hash": "0d9681cd6b31c43014e5b5571ba0dd59a1b39246600057aa30d31aa6f64a2be2",
       "size": 152505
     },
@@ -69,7 +69,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/factorresearch/FactorResearch.diff.png",
+      "path": "assets/atlas/factorresearch/factorresearch.diff.png",
       "hash": "e4cf9ec99c4d3ec682fbe4a18561204069b5db375f0c7876885702e7100b105c",
       "size": 497061
     },
@@ -79,7 +79,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/gacha/Gacha.diff.png",
+      "path": "assets/atlas/gacha/gacha.diff.png",
       "hash": "8bc516efd9055bf071de6b194622b39c52065d52878ae272ce29996e0f934907",
       "size": 645646
     },
@@ -89,7 +89,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/heroes/Heroes.diff.png",
+      "path": "assets/atlas/heroes/heroes.diff.png",
       "hash": "5069fc49b7c76a01a382df275825d7345fa8b5abaa7c19c57b106c7d1c928e59",
       "size": 1537734
     },
@@ -109,7 +109,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/mission/Mission.diff.png",
+      "path": "assets/atlas/mission/mission.diff.png",
       "hash": "871544a1f90a91e228bd51201cfaeb2684817f38f613d55c5dce25e451ab208f",
       "size": 90409
     },
@@ -119,7 +119,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/race/Race.diff.png",
+      "path": "assets/atlas/race/race.diff.png",
       "hash": "42c7f172da0083ce0bdfa5586915a6891a2d87e5cc3dac12017e69269738e374",
       "size": 1173593
     },
@@ -129,7 +129,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/racecommon/RaceCommon.diff.png",
+      "path": "assets/atlas/racecommon/racecommon.diff.png",
       "hash": "cfcd24b0ed2c31e0e711f0a60210904bf922a419da3bbdf5817899af45cb18a4",
       "size": 339640
     },
@@ -139,7 +139,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/roommatch/RoomMatch.diff.png",
+      "path": "assets/atlas/roommatch/roommatch.diff.png",
       "hash": "f6fdda69e5d2c323fd513ae97d2d8acc12b499009eeaaccdf4fb3d668359f442",
       "size": 1154008
     },
@@ -149,7 +149,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/single/Single.diff.png",
+      "path": "assets/atlas/single/single.diff.png",
       "hash": "4439f6e80b735dfec01de6b6a42fa0d3fc57d8478c942154c56c16036a05630c",
       "size": 161199
     },
@@ -159,7 +159,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/singlemodescenariovenus/SingleModeScenarioVenus.diff.png",
+      "path": "assets/atlas/singlemodescenariovenus/singlemodescenariovenus.diff.png",
       "hash": "612c67f1135b524d83cc4335d9fba1c404e2c1444d71ab6014c4a840f251d2d2",
       "size": 894431
     },
@@ -169,7 +169,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/singleresult/SingleResult.diff.png",
+      "path": "assets/atlas/singleresult/singleresult.diff.png",
       "hash": "d5ea7d57de2195134c08f78984d5be75b29c734293f6e9def77323fcb4ef7f0e",
       "size": 109329
     },
@@ -179,7 +179,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/singlestart/SingleStart.diff.png",
+      "path": "assets/atlas/singlestart/singlestart.diff.png",
       "hash": "2015ae7ad19bf7c537e1f34d2836c118c186ed7cc9192fcb5fd2cf1d9d6b9f16",
       "size": 313110
     },
@@ -189,7 +189,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/storyevent/StoryEvent.diff.png",
+      "path": "assets/atlas/storyevent/storyevent.diff.png",
       "hash": "b49150e2d783e8279eaf05f4984ac1ffe2975dbc42ac4aab5a97d7ebf4ca5f76",
       "size": 827009
     },
@@ -199,7 +199,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/teambuilding/TeamBuilding.diff.png",
+      "path": "assets/atlas/teambuilding/teambuilding.diff.png",
       "hash": "20f4c1f89e22a3bb9b2723b0715cf9931f319ed24776e792e9865b9629ef36ed",
       "size": 1299946
     },
@@ -209,7 +209,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/teamstadium/TeamStadium.diff.png",
+      "path": "assets/atlas/teamstadium/teamstadium.diff.png",
       "hash": "0299208f5fa7fc62053d7fd042b62e18680d9772717e024c9c76a7d9189d6d46",
       "size": 1739005
     },
@@ -219,7 +219,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/trainingreport/TrainingReport.diff.png",
+      "path": "assets/atlas/trainingreport/trainingreport.diff.png",
       "hash": "9b023a882bfe10fdcfaf6f4f1e39a019d18fda81bd39f544a7f8ee0404a1c94d",
       "size": 89860
     },
@@ -229,7 +229,7 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/transferevent/TransferEvent.diff.png",
+      "path": "assets/atlas/transferevent/transferevent.diff.png",
       "hash": "395a35d4c0bbd2d55e2d10bbe7c769134a03737750d69f6447a23efc702f3a51",
       "size": 123779
     },
