@@ -4,6 +4,11 @@
   "zip_dir": "tl-zh-tw-main/localized_data",
   "files": [
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_announce_supportcard00/tx_uTex_fl_announce_supportcard00_0.diff.png",
+      "hash": "ef1355098660ad7a4c5a764ea2282472569590a3a36f821bd413548d67699ab5",
+      "size": 305542
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_chara_txt_hint_lvup00/tx_uTex_fl_chara_txt_hint_lvup00_0.diff.png",
       "hash": "77bd5a710782cb3d34839bcc6340c61b21f046dafdf77a28b58af2f70f6fde76",
       "size": 91421
@@ -14,9 +19,89 @@
       "size": 83141
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_roommatch_top_logo00_00/tx_uTex_fl_roommatch_top_logo00_00_0.diff.png",
+      "hash": "9cfe098c67abb07c227ff9a0dad823e459cebbb748e69b1347c0259e8874a461",
+      "size": 458148
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_arc_header_turncounter00/tx_uTex_fl_singlemode_arc_header_turncounter00.diff.png",
       "hash": "1f81667d466e5e90912beac1981b495b85e711325f7025fb605ff52784ea8252",
       "size": 18230
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_break_resultpoint_record00/tx_uTex_fl_singlemode_break_resultpoint_record00_0.diff.png",
+      "hash": "fa3a2fa01405559d9bdb32081bf09916ebcee357b68d900115b9fadc48bc293a",
+      "size": 181290
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_btn_factor_succession00/tx_uTex_fl_singlemode_btn_factor_succession00_0.diff.png",
+      "hash": "113b16478f061babe6d8e6654ea6f253b5bcceefcdb05d7de1dc258fcbcb94da",
+      "size": 229383
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_activecondition00/tx_uTex_fl_singlemode_eventbonus_activecondition00_0.diff.png",
+      "hash": "5eb4eeb495e67c022cc0743fd9a258be6a5a2ba9ca60276f60b33986342faa02",
+      "size": 52814
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_dncondition00/tx_uTex_fl_singlemode_eventbonus_dncondition00_0.diff.png",
+      "hash": "f84c6c349985f83a595c9593ea082e41b61d752d9addafc8539b9234e2c6158d",
+      "size": 100530
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_dnskill00/tx_uTex_fl_singlemode_eventbonus_dnskill00_0.diff.png",
+      "hash": "b62c4cd4f5e107719ea7d13f58df62bd8247e9d47de136cde44b173e3cd53c4e",
+      "size": 179712
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_resolvecondition00/tx_uTex_fl_singlemode_eventbonus_resolvecondition00_0.diff.png",
+      "hash": "8e7729945c3dadd524e1dc791e737ef1d8f413b253c1a9f1a4c76a4c1a29214c",
+      "size": 45326
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_succession00/tx_uTex_fl_singlemode_eventbonus_succession00_0.diff.png",
+      "hash": "f831cd9043500eb1b2933ae89948d3282674e6cae756d6ed3345fac908192294",
+      "size": 86173
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_target00/tx_uTex_fl_singlemode_eventbonus_target00_0.diff.png",
+      "hash": "56bd592342c513a16f5493c602c70734020fb850a74836c015db1a3c616fd4d7",
+      "size": 60274
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_upcondition00/tx_uTex_fl_singlemode_eventbonus_upcondition00_0.diff.png",
+      "hash": "66c3267b42ca1fd71fe52f26d478ef37d5be355da47ffcd6cebddb2e9b17f9e9",
+      "size": 87180
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_upevent00/tx_uTex_fl_singlemode_eventbonus_upevent00_0.diff.png",
+      "hash": "7bc1746c6b93bc95ed77d8ab03f2797660e6d362a3af287a9e9177f1572e1085",
+      "size": 59321
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_uphint00/tx_uTex_fl_singlemode_eventbonus_uphint00_0.diff.png",
+      "hash": "11b36e141f1e1ce18f7e2ce108a950c106c25eb97636e86499eb85bde3b75075",
+      "size": 127563
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_upskill00/tx_uTex_fl_singlemode_eventbonus_upskill00_0.diff.png",
+      "hash": "e7df65d9650d1493a49103ed2174c16d987668fab676d77371dad3dd70d56c34",
+      "size": 207282
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_upskilllv00/tx_uTex_fl_singlemode_eventbonus_upskilllv00_0.diff.png",
+      "hash": "8b8d470618765fe6378908e31e2fcaddaf830723cce0cb247b85a3242b0eb86e",
+      "size": 111666
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_extrarace_result00/tx_uTex_fl_singlemode_extrarace_result00_0.diff.png",
+      "hash": "94a60f63674c11d5c0cdafe9bd65f6ea3dde3ea844c18bab8c03e8956328b423",
+      "size": 760198
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_header_hpgauge00/tx_uTex_fl_singlemode_header_hpgauge00_0.diff.png",
+      "hash": "4259cea9e332c6f5d7d811f12896b7b5d380f5bd56bb7d83550f9bd4074de939",
+      "size": 6562
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_hint00/tx_uTex_fl_singlemode_hint00_0.diff.png",
@@ -37,6 +122,61 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_icon_motivation00/tx_uTex_fl_singlemode_legend_icon_motivation00_0.diff.png",
       "hash": "c6814c83dcb966fbbfe94947212f5c77b500bdbe40750ff4f3b592cad81c6082",
       "size": 112558
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_next_target00/tx_uTex_fl_singlemode_legend_next_target00_0.diff.png",
+      "hash": "5dc3e7e5d86bd42d4430a41928e913ee1be7bf4e832b571f86a0e242e2478114",
+      "size": 118984
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_header_hpgauge00/tx_uTex_fl_singlemode_mecha_header_hpgauge00_0.diff.png",
+      "hash": "42ba05aad50d73b0d317888065aa9460db0cbf2ed6b9ea20d6672a67d3e30e36",
+      "size": 6941
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_next_target00/tx_uTex_fl_singlemode_next_target00_0.diff.png",
+      "hash": "6f55f05ceddc23d4ab12e86e33894daf94c7a51c8537dbff6fba32198077f238",
+      "size": 100446
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_result_scenariorecord00/tx_uTex_fl_singlemode_result_scenariorecord00_0.diff.png",
+      "hash": "d6202fc2aa1b7ab190728e64c253f09b6d7ae1d4a55ca549c667aa3f1c5122bb",
+      "size": 232680
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_skillupgrade_skillname00/tx_uTex_fl_singlemode_skillupgrade_skillname00_0.diff.png",
+      "hash": "3642c81775f4677dba54a580c4985db86d3c6bc60d6a7e646eefac225aebec5b",
+      "size": 427486
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_start_succession00/tx_uTex_fl_singlemode_start_succession00_0.diff.png",
+      "hash": "bb1e370496282130a0c191d5ed975066801c05b262cb1e43fb02ca18c542a1ee",
+      "size": 545436
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_start_tagtraining00/tx_uTex_fl_singlemode_start_tagtraining00_0.diff.png",
+      "hash": "f10fafe5c73fb74df51738eec400a28903121d5c5d450ccddf84b92ae5bf6be3",
+      "size": 413774
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_factorselection00/tx_uTex_fl_singlemode_title_factorselection00_0.diff.png",
+      "hash": "f42c275491e46c00482344643c71579bb846455859436b25f9ef379c0b7c647b",
+      "size": 160897
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_auto_training00/tx_uTex_fl_singlemode_txt_auto_training00_0.diff.png",
+      "hash": "629cdac6262fc504afe07ef536c0790ecf40af2231395afefc4dc5903e333d12",
+      "size": 35675
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_factor_succession00/tx_uTex_fl_singlemode_txt_factor_succession00_0.diff.png",
+      "hash": "cf30703b6123283f7935a7a13226aa8d6e59d339c003660e0ece585dc40d3d44",
+      "size": 103385
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_tagtrainingresult00/tx_uTex_fl_singlemode_txt_tagtrainingresult00_0.diff.png",
+      "hash": "f1cd0e8271057404e270685ebab2b8eb863cb742bd9b317205435ff2d8711ac6",
+      "size": 410905
     },
     {
       "path": "assets/atlas/campaign/campaign.diff.png",
@@ -110664,6 +110804,11 @@
       "size": 166
     },
     {
+      "path": "assets/uianimation/flash/roommatch/pf_fl_roommatch_top_logo00_00.json",
+      "hash": "e69a4d9c4c455885ff52c75378f669d988b802d3513bec9e538b04d39817bc21",
+      "size": 166
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/arc/pf_fl_singlemode_arc_header_turncounter00.json",
       "hash": "6b40290f4c430829d66d45f10f70838dbcedac837f33cd0928826da545da0c68",
       "size": 2179
@@ -110679,6 +110824,91 @@
       "size": 166
     },
     {
+      "path": "assets/uianimation/flash/singlemode/legend/pf_fl_singlemode_legend_next_target00.json",
+      "hash": "5af2a756d1ace4faeea0027b58fbb806f7b6bc9accfa1e3310a4f27708a3cf8d",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_header_hpgauge00.json",
+      "hash": "ea64fe2e270783151a13780d0487fdd51a015f37b7a5b233653128067aec98d9",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_break_resultpoint_record00.json",
+      "hash": "f45ac2771234eef7322da7c075fd0fe0f2c531b47014ddd32ad4e40a5aa83450",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_btn_factor_succession00.json",
+      "hash": "0434f9ed841f9417e6572f4a543a256c59529c0ee04acc3cd1f3a3315243419c",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_activecondition00.json",
+      "hash": "e31de050c1fff6458f957de4b1f770dbf1e6431962c13ab64b9af900ccb1165d",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_dncondition00.json",
+      "hash": "95cf090dbb7b76deb9f204ef044290897016a9419406dcac9a22c4d6887a2d2e",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_dnskill00.json",
+      "hash": "9d3802e976b3621b3cf03acd5913c63dc9e721ea529f23a14cbc810e1de6c800",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_resolvecondition00.json",
+      "hash": "6ba35d912044432e31d99d50e9c751af5e494e87da0f2b980b073c63f938c226",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_succession00.json",
+      "hash": "96d0a0bfe50d3568455e3c082b5fc545c7cfceba371375cce43c20008b4d5aad",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_target00.json",
+      "hash": "0eac73795dddd942ecc42a353de8b3f6e4c253289a424c6d19fcea91373b38eb",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_upcondition00.json",
+      "hash": "9c433639db288421c52f311d19c3bd9ffaae6f1fbf800c052c0fe041953deb22",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_upevent00.json",
+      "hash": "6de9990d6d26890811f0eecb6ea87ce494e3336b52c42c72d4afd5b385fa0f4e",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_uphint00.json",
+      "hash": "3f771e29d005bb3a4f0baa727c51250c4104490b8e97b6e49b6288d8c17fcea2",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_upskill00.json",
+      "hash": "93892825da4e94c67c3add54e23be61c93ae620045fc683985358b25d709b556",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_upskilllv00.json",
+      "hash": "71c2c9cbca19cf372d7806c44e0367b94401e3af138b7ec4aaed0123f663c70a",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_extrarace_result00.json",
+      "hash": "addafdd9faeb8deac42a1eeefcbb644189025b1053ea0ecdfe60c0cb506778d6",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_header_hpgauge00.json",
+      "hash": "c9e026805b658e9a41b72fe861414293e3d7b0027a515e60326b0aca29bc747d",
+      "size": 166
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_hint00.json",
       "hash": "1adb7bba9e1e3ebe37f940482fd538901f776296eeba7fe13350d70da24cb0ff",
       "size": 166
@@ -110686,6 +110916,51 @@
     {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_icon_motivation00.json",
       "hash": "5719cbcff1a1bda8e688bfe672954bf8e01ca46c717e7c9dab8a5d2d22561e8b",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_next_target00.json",
+      "hash": "eb8398e402ba04de6dc77150d1d6930129c6a5c1b475a900f5e6b90a0bf6d501",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_result_scenariorecord00.json",
+      "hash": "23870376351d013d3e098e312bb02b4cdc8a8135d270a42f53c3481d56f66276",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_skillupgrade_skillname00.json",
+      "hash": "ffcb8e0eb0e3b9b459d4853dac13244d76dea2d18f0703cc8fd4de407afa1bad",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_start_succession00.json",
+      "hash": "eb7d808fab59a455d1d99a44eeafbbea0034ac6ea9c3a54abe5396e573068492",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_start_tagtraining00.json",
+      "hash": "c081923348137b71569ac85c6db647ae72eaab10c4de726467ee44f4003e533f",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_title_factorselection00.json",
+      "hash": "54c65109ba4e9974dbbfeba6e350a9abf1a08ccaa8f14f22ac3a9773a8588423",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_txt_auto_training00.json",
+      "hash": "0bde1746a29b67553933c153c15f31d71443a4b653c169644890e9d946c6903e",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_txt_factor_succession00.json",
+      "hash": "1c104b016a8022a95c5629ff096d568f13769ef16f9788682cb1ab0ef61d7a4d",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_txt_tagtrainingresult00.json",
+      "hash": "5b659056394dc491fbc40b89fc4c03e4dbe61bdcec69abddd2920b9b53a74e70",
       "size": 166
     },
     {
@@ -110715,8 +110990,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "6281760fd025be23d0a45ee4cb8aad01c3eade506a12299c967f45d7f8b68c24",
-      "size": 399044
+      "hash": "66c548df49c84154026375c89d2db52ddd1f4ce540d915cabedbe5a790c5d2ad",
+      "size": 399045
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -110730,8 +111005,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "01ae99705c380a4d283bda213f166288f50bbf703ce8ffbd5aa5136b65c99248",
-      "size": 4508169
+      "hash": "06c2d7b86f5bbcaaeb580c9f2ce2578f941008311be4a3d81133fb9f10d1a671",
+      "size": 4508275
     }
   ]
 }
