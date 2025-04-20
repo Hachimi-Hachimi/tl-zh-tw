@@ -13,5 +13,16 @@
     "replacement_font_name": "assets/umamusume_zh_tw.otf",
 
     "text_common_allow_overflow": true,
-    "remove_ruby": true
+    "remove_ruby": true,
+
+    "character_note_top_gallery_button": {
+        "text": "    培育事件\n      鑑賞室",
+        "font_size": 44,
+        "line_spacing": 0.6
+    },
+    "character_note_top_talk_gallery_button": {
+        "text": "　   對話\n　 鑑賞室",
+        "font_size": 45,
+        "line_spacing": 0.6
+    }
 }
