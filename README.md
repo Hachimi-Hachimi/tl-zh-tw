@@ -55,6 +55,12 @@ This is the Traditional Chinese translation repository for Hachimi.
   <img src="https://contrib.rocks/image?repo=MinamiChiwa/Trainers-Legend-G-TRANS" />
 </a>
 
+### 外部翻譯取用聲明
+1. 以下內容引自萌娘百科(https://zh.moegirl.org.cn )，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0 中国大陆》协议：
+```
+1. Ready!! Steady!! Derby!!
+```
+
 ## 遊戲素材之使用
 
 - 本項目內之遊戲素材版權屬於 [Komoe Technology Limited（繁體中文版）](https://www.komoejoy-sea.com/) 及 [株式会社Cygames（日文版）](https://www.cygames.co.jp/) 。
