@@ -3815,8 +3815,8 @@
     },
     {
       "path": "assets/lyrics/m1053_lyrics.json",
-      "hash": "f7f380aeec949b94b61fb0b850781d195ce1da1de67523d8ccb4d2c0e4fd9d32",
-      "size": 3632
+      "hash": "1a57ae97a42060da6b3981ead082ad76970294a99d61a367bb5584ffbbb0588e",
+      "size": 3622
     },
     {
       "path": "assets/lyrics/m1054_lyrics.json",
@@ -110615,8 +110615,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "ac2a214a54ddd99989277c421758547b4ac7bb943908567cbc8efe0e20a5ecb0",
-      "size": 4508980
+      "hash": "cf788aca2a83f58b19eb52eae4b0121bc2759bec01795d4cedd766d0f208723e",
+      "size": 4509991
     }
   ]
 }
